@@ -20,10 +20,8 @@ Weather Search is a full-stack web application that provides real-time weather f
 
 - **Live Application:** [Weather Search Live](https://csci571asgm3frontend.wl.r.appspot.com/)
 - **Video Demo:** 
-<video width="100%" height="300rem" controls>
-  <source src="assets/demo_compressed.mp4" type="video/mp4">
-  Your browser does not support the video tag. [Watch here](assets/demo.mov)
-</video>
+https://github.com/user-attachments/assets/b829f8eb-ed6d-4605-be6f-672188d12d35
+
 
 ---
 
