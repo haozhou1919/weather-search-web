@@ -2,7 +2,7 @@
 
 Weather Search is a full-stack web application that provides real-time weather forecasts. Built with Angular, Node.js, Express, and MongoDB, it integrates multiple APIs for a seamless and interactive user experience.
 
-> *🔹 Note: Due to academic policies, the full source code is not publicly available. However, this README provides an overview of the project’s features, technologies, and implementation details.*
+> *🔹 Note: Developed as part of my CSCI571 Web Technologies course. Due to academic policies, the full source code is not publicly available. However, this README provides an overview of the project’s features, technologies, and implementation details.*
 
 ---
 
