@@ -17,10 +17,10 @@ Weather Search is a full-stack web application that provides real-time weather f
 ---
 
 ## 🔗 Demo
-
-  <video src="https://github.com/user-attachments/assets/b829f8eb-ed6d-4605-be6f-672188d12d35"></video>
-
-- **Live Application:** [Weather Search Live](https://csci571asgm3frontend.wl.r.appspot.com/)
+  - 🚀 **Live Application:**  
+      > Try the app here → [Weather Search Live](https://csci571asgm3frontend.wl.r.appspot.com/)
+  - 🎥 **Video Walkthrough:**  
+    <video src="https://github.com/user-attachments/assets/b829f8eb-ed6d-4605-be6f-672188d12d35"></video>
 ---
 
 ## 🛠️ Tech Stack
