@@ -85,3 +85,5 @@ While the complete source code is not shared publicly, here’s an overview of t
 
 📩 Email: [contact.haozhou@gmail.com](mailto:contact.haozhou@gmail.com)
 
+🔗 LinkedIn: [linkedin/in/hao-zhou-](https://www.linkedin.com/in/hao-zhou-/)
+
